@@ -22,7 +22,7 @@ This project is a simple clone of the Spotify web player interface, showcasing v
 2. Open `index.html` in your web browser.
 
 ### File Structure
-/project-root
+```/project-root
 │
 ├── index.html                 # Main HTML file
 ├── style.css                  # CSS styles for the web player
@@ -38,7 +38,7 @@ This project is a simple clone of the Spotify web player interface, showcasing v
     ├── album_icon1.png        # Album icon 1
     ├── album_icon2.png        # Album icon 2
     └── controls_icon1.png     # Control icon 1
-
+```
 
 
 ## Usage
