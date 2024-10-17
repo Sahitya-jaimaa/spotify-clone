@@ -22,20 +22,23 @@ This project is a simple clone of the Spotify web player interface, showcasing v
 2. Open `index.html` in your web browser.
 
 ### File Structure
-/project-root │ 
-              ├── index.html # Main HTML file 
-              ├── style.css # CSS styles for the web player 
-              ├── assets/ # Directory for images and icons │ 
-                  ├── library_icon.png │ 
-                  ├── card1img.jpeg │ 
-                  ├── card2img.jpeg │ 
-                  ├── album_picture.jpeg │ 
-                  ├── player_icon1.png │ 
-                  └── ... # Other image files 
-              └── homework_assets/ # Additional assets for music player 
-                  ├── album_icon1.png 
-                  ├── album_icon2.png 
-                  └── controls_icon1.png
+/project-root
+│
+├── index.html                 # Main HTML file
+├── style.css                  # CSS styles for the web player
+├── assets/                    # Directory for images and icons
+│   ├── library_icon.png       # Icon for library
+│   ├── card1img.jpeg          # Image for card 1
+│   ├── card2img.jpeg          # Image for card 2
+│   ├── album_picture.jpeg      # Album cover image
+│   ├── player_icon1.png       # Player control icon 1
+│   └── ...                    # Other image files
+│
+└── homework_assets/           # Additional assets for music player
+    ├── album_icon1.png        # Album icon 1
+    ├── album_icon2.png        # Album icon 2
+    └── controls_icon1.png     # Control icon 1
+
 
 
 ## Usage
